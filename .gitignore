@@ -19,3 +19,4 @@
 # etc
 .DS_Store
 *.txt
+*.o
